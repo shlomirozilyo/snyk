@@ -1,5 +1,6 @@
 ## Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshlomirozilyo%2Fsnyk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshlomirozilyo%2Fsnyk?ref=badge_shield)
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
@@ -49,3 +50,7 @@ snyk wizard
 In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshlomirozilyo%2Fsnyk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshlomirozilyo%2Fsnyk?ref=badge_large)
